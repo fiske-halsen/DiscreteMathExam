@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DiscreteMathExam", "DiscreteMathExam\DiscreteMathExam.pyproj", "{0D198540-8D7D-41D6-A75A-94BE2A89CC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D198540-8D7D-41D6-A75A-94BE2A89CC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D198540-8D7D-41D6-A75A-94BE2A89CC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3367F97-7DB7-4D46-B05A-73F2C32D75C7}
+	EndGlobalSection
+EndGlobal
